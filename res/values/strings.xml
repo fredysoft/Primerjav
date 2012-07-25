@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Curso ingles</string>
+    <string name="Ejemplo1">Ejemplo_1</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="cursoingles">Curso Ingles</string>
+    <string name="lina">lina</string>
+    <string name="freddy">freddy</string>
+    <string name="charly">charly</string>
+    <string name="yhonatan">yhonatan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ejemplo">Ejemplo</string>
+    <string name="title_activity_veinticuatrojulio">veinticuatrojulio</string>
+    <string name="title_activity_veinticuatrojulio2">veinticuatrojulio2</string>
+    <string name="button">Enviar</string>
+    <string name= "Salir-">Salir</string>
+    
+    
+
+</resources>
